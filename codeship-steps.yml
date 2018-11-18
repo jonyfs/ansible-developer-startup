@@ -1,5 +1,0 @@
-- type: serial
-  name: alpine
-  steps:
-  - service: alpine
-    command: ansible-playbook --version
