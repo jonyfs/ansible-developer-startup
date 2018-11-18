@@ -1,0 +1,4 @@
+alpine:
+  build:
+    image: alpine
+    dockerfile_path: alpine/Dockerfile
